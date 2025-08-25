@@ -1,3 +1,5 @@
+![Logo da Clear Task]([caminho/para/sua/logo.png](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/img/Logo%20Empresa.md))
+
 # Clear Task - Sistema de Gerenciamento de Chamados com IA Integrada
 
 **Clear Task** é uma plataforma inteligente de gerenciamento de chamados que funciona em **desktop**, **web** e **mobile**. Utilizando **Electron**, **JavaScript**, **TypeScript** e a IA **Copilot**, o sistema visa otimizar o processo de resolução de problemas e melhorar a experiência do usuário através de automações, categorização inteligente e respostas automatizadas.

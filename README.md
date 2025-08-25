@@ -1,4 +1,4 @@
-![Logo da Clear Task]([caminho/para/sua/logo.png](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/img/Logo%20Empresa.md))
+<img width="500" height="300" alt="Logo Empresa" src="https://github.com/user-attachments/assets/d149f69b-cad5-46eb-8bb7-35b0443278bb" />
 
 # Clear Task - Sistema de Gerenciamento de Chamados com IA Integrada
 

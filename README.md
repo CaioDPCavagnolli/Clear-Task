@@ -16,14 +16,16 @@
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 
+---
+
 ## 🏅 Desafio
 Desenvolver um sistema web de Help Desk de chamados, com controle de acesso baseado em três níveis hierárquicos:
 
-##Supervisor:## pode abrir chamados e direcioná-los para técnicos específicos.
+**Supervisor:** pode abrir chamados e direcioná-los para técnicos específicos.
 
-##Técnico:## pode editar os chamados atribuídos, ajustando prioridade, categoria e localização.
+**Técnico:** pode editar os chamados atribuídos, ajustando prioridade, categoria e localização.
 
-##Administrador:## possui acesso total ao sistema, incluindo a criação e gestão de contas de usuários, além de visualizar e editar todos os chamados.
+**Administrador:** possui acesso total ao sistema, incluindo a criação e gestão de contas de usuários, além de visualizar e editar todos os chamados.
 
 O sistema deve registrar o histórico completo dos chamados, permitir filtros por status e categorias, e garantir segurança e rastreabilidade das ações realizadas por cada perfil. Todas as interações devem ser persistidas em banco de dados para auditoria e melhoria contínua dos processos de atendimento.
 
@@ -32,13 +34,38 @@ O Clear HelpDesk será uma plataforma inteligente e escalável para gestão de c
 
 A solução será construída com boas práticas de desenvolvimento web, autenticação segura, controle de permissões por perfil e banco de dados relacional. Essa abordagem visa melhorar o fluxo de atendimento interno, reduzir o tempo de resposta e oferecer uma visão clara da operação para todos os envolvidos.
 
+---
+
+## 📋 Backlog do Produto
+[Backlog do Produto](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/BackLog%20do%20Produto.md)
+
+---
+
+### 🚀 Critérios para DoR
+
+* User Stories com **Critérios de Aceitação**
+* Subtarefas divididas **a partir das US**
+* Design no **Figma**
+* Modelagem do **Banco de Dados**
+* Diagrama de **Casos de Uso**
+* Diagrama de **Classes do Sistema**
+* Diagrama de **Iteração e Sequencia**
+
+### ✅ DoD - Definition of Done
+
+* Manual de Usuário
+* Manual da Aplicação
+* Documentação da API (Application Programming Interface)
+
+---
+
 ## 🚀 Visão Geral
 
 O **Clear Task** foi desenvolvido para automatizar o gerenciamento de chamados, oferecendo uma solução multiplataforma (desktop, web e mobile). A IA integrada (Copilot) facilita a triagem, priorização e resposta de chamados, com aprendizado contínuo para aprimorar as soluções oferecidas.
 
-- **Desktop:** Construído com **Electron** para criar uma aplicação de desktop nativa para Windows, macOS e Linux.
+- **Desktop:** Construído com **C#** para criar uma aplicação de desktop nativa para Windows, macOS e Linux.
 - **Web:** Uma versão web responsiva, acessível via navegador em qualquer dispositivo.
-- **Mobile:** Aplicação móvel disponível para **Android** e **iOS**, oferecendo uma experiência otimizada para dispositivos móveis.
+- **Mobile:** Aplicação móvel disponível para **Android** oferecendo uma experiência otimizada para dispositivos móveis.
 
 ## ⚙️ Funcionalidades
 

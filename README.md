@@ -1,25 +1,11 @@
-<img width="500" height="300" alt="Logo Empresa" src="https://github.com/user-attachments/assets/d149f69b-cad5-46eb-8bb7-35b0443278bb" />
+<p align="center"><img width="500" height="300" alt="Logo Empresa" src="https://github.com/user-attachments/assets/d149f69b-cad5-46eb-8bb7-35b0443278bb" />
 
 # Clear Task - Sistema de Gerenciamento de Chamados com IA Integrada
-
-**Clear Task** é uma plataforma inteligente de gerenciamento de chamados que funciona em **desktop**, **web** e **mobile**. Utilizando **Electron**, **JavaScript**, **TypeScript** e a IA **Copilot**, o sistema visa otimizar o processo de resolução de problemas e melhorar a experiência do usuário através de automações, categorização inteligente e respostas automatizadas.
-
-## 📝 Índice
-
-- [Visão Geral](#visão-geral)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias](#tecnologias)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Arquitetura](#arquitetura)
-- [Diagramas UML](#diagramas-uml)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ---
 
 ## 🏅 Desafio
-Desenvolver um sistema web de Help Desk de chamados, com controle de acesso baseado em três níveis hierárquicos:
+Desenvolver um sistema web de Help Desk de chamados que funciona em **desktop**, **web** e **mobile** com IA integrada, com controle de acesso baseado em três níveis hierárquicos:
 
 **Supervisor:** pode abrir chamados e direcioná-los para técnicos específicos.
 
@@ -59,13 +45,14 @@ A solução será construída com boas práticas de desenvolvimento web, autenti
 
 ---
 
-## 🚀 Visão Geral
+## 📅 Cronograma de Sprints
 
-O **Clear Task** foi desenvolvido para automatizar o gerenciamento de chamados, oferecendo uma solução multiplataforma (desktop, web e mobile). A IA integrada (Copilot) facilita a triagem, priorização e resposta de chamados, com aprendizado contínuo para aprimorar as soluções oferecidas.
 
-- **Desktop:** Construído com **C#** para criar uma aplicação de desktop nativa para Windows, macOS e Linux.
-- **Web:** Uma versão web responsiva, acessível via navegador em qualquer dispositivo.
-- **Mobile:** Aplicação móvel disponível para **Android** oferecendo uma experiência otimizada para dispositivos móveis.
+| Sprints  |  Links                                                                                                               |
+| :------: | :------------------------------------------------------------------------------------------------------------------: |
+| Sprint 1 | [Sprint 1 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-1.md) |
+
+---
 
 ## ⚙️ Funcionalidades
 
@@ -87,3 +74,12 @@ O **Clear Task** é desenvolvido com as seguintes tecnologias:
 - **IA:** Copilot (para automação e sugestões inteligentes)
 - **Autenticação:** JWT (JSON Web Token)
 - **Gerenciamento de Dependências:** npm, yarn
+
+---
+
+## 🎓 Equipe
+
+| Membro          |  Função                      |
+| :-------------: | :--------------------------: |
+| Caio Damaceno   | Product Owner & Scrum Master |
+| Giovani Algusto | Developer                    |

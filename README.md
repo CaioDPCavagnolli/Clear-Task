@@ -51,6 +51,13 @@ A solução será construída com boas práticas de desenvolvimento web, autenti
 | Sprints  |  Links                                                                                                               |
 | :------: | :------------------------------------------------------------------------------------------------------------------: |
 | Sprint 1 | [Sprint 1 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-1.md) |
+| Sprint 2 | [Sprint 2 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-2.md) |
+| Sprint 3 | [Sprint 3 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-3.md) |
+| Sprint 4 | [Sprint 4 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-4.md) |
+| Sprint 5 | [Sprint 5 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-5.md) |
+| Sprint 6 | [Sprint 6 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-6.md) |
+| Sprint 7 | [Sprint 7 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-7.md) |
+| Sprint 8 | [Sprint 8 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-8.md) |
 
 ---
 

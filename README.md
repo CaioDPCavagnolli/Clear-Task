@@ -15,78 +15,48 @@ Desenvolver um sistema web de Help Desk de chamados que funciona em **desktop**,
 
 O sistema deve registrar o histórico completo dos chamados, permitir filtros por status e categorias, e garantir segurança e rastreabilidade das ações realizadas por cada perfil. Todas as interações devem ser persistidas em banco de dados para auditoria e melhoria contínua dos processos de atendimento.
 
-## 🏅 Solução
-O Clear HelpDesk será uma plataforma inteligente e escalável para gestão de chamados técnicos, com foco em agilidade, organização e controle operacional. Supervisores poderão registrar demandas diretamente para os técnicos, que terão autonomia para atualizar os chamados com informações relevantes. O administrador atuará como gestor do sistema, garantindo a integridade dos dados e o funcionamento adequado da plataforma.
-
-A solução será construída com boas práticas de desenvolvimento web, autenticação segura, controle de permissões por perfil e banco de dados relacional. Essa abordagem visa melhorar o fluxo de atendimento interno, reduzir o tempo de resposta e oferecer uma visão clara da operação para todos os envolvidos.
-
 ---
 
 ## 📋 Backlog do Produto
-[Backlog do Produto](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/BackLog%20do%20Produto.md)
-
----
-
-### 🚀 Critérios para DoR
-
-* User Stories com **Critérios de Aceitação**
-* Subtarefas divididas **a partir das US**
-* Design no **Figma**
-* Modelagem do **Banco de Dados**
-* Diagrama de **Casos de Uso**
-* Diagrama de **Classes do Sistema**
-* Diagrama de **Iteração e Sequencia**
-
-### ✅ DoD - Definition of Done
-
-* Manual de Usuário
-* Manual da Aplicação
-* Documentação da API (Application Programming Interface)
+👉 [Link do Backlog do Produto](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/BackLog%20do%20Produto.md) 👈
 
 ---
 
 ## 📅 Cronograma de Sprints
-
-
-| Sprints  |  Links                                                                                                               |
-| :------: | :------------------------------------------------------------------------------------------------------------------: |
-| Sprint 1 | [Sprint 1 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-1.md) |
-| Sprint 2 | [Sprint 2 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-2.md) |
-| Sprint 3 | [Sprint 3 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-3.md) |
-| Sprint 4 | [Sprint 4 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-4.md) |
-| Sprint 5 | [Sprint 5 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-5.md) |
-| Sprint 6 | [Sprint 6 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-6.md) |
-| Sprint 7 | [Sprint 7 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-7.md) |
-| Sprint 8 | [Sprint 8 Docs](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documenta%C3%A7%C3%A3o/Sprints/Sprint-8.md) |
+👉 [Link do Cronograma de Sprints](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documentação/Cronograma%20de%20Sprints.md) 👈
 
 ---
 
-## ⚙️ Funcionalidades
-
-- **Interface Multiplataforma:** A aplicação é acessível em desktop, web e dispositivos móveis.
-- **Inteligência Artificial Copilot:** Classificação, priorização e sugestão automática de soluções com base em IA.
-- **Gerenciamento de Chamados:** Criação, visualização, edição e resolução de chamados com possibilidade de adicionar notas, arquivos e anexos.
-- **Notificações em Tempo Real:** Receba alertas e atualizações instantâneas sobre novos chamados e mudanças no status.
-- **Suporte Multiplataforma:** Experiência integrada entre desktop, web e mobile, com dados sincronizados em tempo real.
-- **Autenticação e Gestão de Usuários:** Suporte para múltiplos perfis e autenticação via JWT.
-
 ## 🔧 Tecnologias
+👉 [Link das Tecnologias](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documentação/Tecnologias.md) 👈
 
-O **Clear Task** é desenvolvido com as seguintes tecnologias:
+---
 
-- **Frontend (Desktop & Web):** Electron, React, TypeScript, JavaScript
-- **Mobile:** React Native (para Android e iOS)
-- **Backend:** Node.js, Express (API RESTful)
-- **Banco de Dados:** (Em fase de escolha, informações serão atualizadas em breve)
-- **IA:** Copilot (para automação e sugestões inteligentes)
-- **Autenticação:** JWT (JSON Web Token)
-- **Gerenciamento de Dependências:** npm, yarn
+## 📖 Estrutura do Projeto
+👉 [Link das Estrutura do Projeto](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documentação/Estrutura%20do%20projeto.md) 👈
+
+---
+
+## ⚙️ Como usar e testar o projeto
+👉 [Link para usar e testar o projeto](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documentação/Manual%20de%20uso.md) 👈
+
+---
+
+##  📁 Documentação
+👉 [Link da Documentação](https://github.com/CaioDPCavagnolli/Clear-Task/tree/main/Documentação) 👈
 
 ---
 
 ## 🎓 Equipe
+👉 [Link da Equipe](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documentação/Equipe.md) 👈
 
-| Membro          |  Função                      |
-| :-------------: | :--------------------------: |
-| Caio Damaceno   | Product Owner & Scrum Master |
-| Giovani Algusto | Developer                    |
+---
+
+### 🚀 Dor e DoD
+👉 [Link do Dor e Dod](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documentação/DoR%20e%20DoD.md) 👈
+
+---
+
+## ⚙️ Manual do Usuário
+👉 [Link do Manual do Usuário](https://github.com/CaioDPCavagnolli/Clear-Task/blob/main/Documentação/Manual%20de%20uso.md) 👈
+
